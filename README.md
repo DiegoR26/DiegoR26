@@ -3,11 +3,11 @@
   </div>
   
   ## En Taro Tassadar! <br>
-  Meu nome é Diego e estou cada dia mais apaixonado por programação! <br>
+  My name is Diego and I'm more and more in love with programming! <br>
   
   <hr>
   
-  ## Linguagens que estou sempre estudando:
+  ## Languages and Tools:
   
   <div style="display: inline_block;">
     <img align="left" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
