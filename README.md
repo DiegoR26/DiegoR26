@@ -1,5 +1,5 @@
   <div style="display: inline_block;">
-  <img align="right" width="160" style="filter: invert(100%);" src="https://media4.giphy.com/media/kFuavIYvRQZGg/giphy.gif">
+  <img align="right" width="150" style="filter: invert(100%);" src="https://media4.giphy.com/media/kFuavIYvRQZGg/giphy.gif">
   </div>
   
   ## En Taro Tassadar! <br>
