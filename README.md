@@ -1,3 +1,5 @@
+  <img align="right" width="34.3%" src="https://media4.giphy.com/media/kFuavIYvRQZGg/giphy.gif?cid=790b7611f83eb4bf1b0da2bc43f49acb52f0173fd8124acf&rid=giphy.gif&ct=g">
+  
   ## En Taro Tassadar! <br>
   Meu nome é Diego e estou cada dia mais apaixonado por programação! <br>
   
