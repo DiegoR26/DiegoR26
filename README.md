@@ -1,11 +1,13 @@
-  <img align="right" width="34.3%" src="https://media4.giphy.com/media/kFuavIYvRQZGg/giphy.gif?cid=790b7611f83eb4bf1b0da2bc43f49acb52f0173fd8124acf&rid=giphy.gif&ct=g">
+  <div style="display: inline_block;">
+  <img align="right" width="160" style="filter: invert(100%);" src="https://media4.giphy.com/media/kFuavIYvRQZGg/giphy.gif">
+  </div>
   
   ## En Taro Tassadar! <br>
   Meu nome é Diego e estou cada dia mais apaixonado por programação! <br>
   
   <hr>
   
-  ## Linguagens que estou aprendendo:
+  ## Linguagens que estou sempre estudando:
   
   <div style="display: inline_block;">
     <img align="left" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
