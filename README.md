@@ -2,7 +2,7 @@
   <img align="right" height="150" src="https://static.wixstatic.com/media/1d30da_0ffdf1f786d34655906ef1c7f6a51408~mv2.gif">
   </div>
   
-  ## En Taro Tassadar! <br>
+  <H3>En Taro Tassadar!</H3>
   My name is Diego and I'm more and more in love with programming! <br>
   
   <hr>
